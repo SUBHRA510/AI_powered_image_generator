@@ -135,6 +135,8 @@ prompt = "A futuristic dragon flying over mountains"
 ### **Output**
 
 All images are saved as:
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/63abad60-fbb8-46a9-aaa4-5d5809053ab2" />
+
 
 ```
 image.png
@@ -188,22 +190,22 @@ image.png
 
 ## 12. Future Improvements
 
-### **1. Model Fine‑tuning**
+### 1. Model Fine‑tuning
 
 * Train on custom datasets using DreamBooth / LoRA
 
-### **2. Add a Frontend UI**
+### 2. Add a Frontend UI
 
 * Streamlit or Gradio web interface
 
-### **3. Style Transfer Features**
+### 3. Style Transfer Features
 
 * Upload an image
 * Apply style-based transformations
 
-### **4. Add Image Upscaling**
+### 4. Add Image Upscaling
 
 * Integrate ESRGAN or Real-ESRGAN
 
-### **5. Support for SDXL or Flux Models**
+### 5. Support for SDXL or Flux Models
 
